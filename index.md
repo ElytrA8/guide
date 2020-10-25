@@ -1,48 +1,48 @@
-# Hello
-## This is ElytrA8
-This is My [Repo](https://github.com/JamieHoSzeYui/TESLA) to deploy your TESLA USERBOT 
-NOW For using UserBot It is important to know Which Vars are used for What.
-## envoirnment VARS
+# Hello.
+## Myself ElytrA8.
+Have a look at my [Repo](https://github.com/JamieHoSzeYui/TESLA) to deploy TESLA USERBOT. 
+To use user bot we should have an idea about vars.
+## envoirnment VARS.
 
-**API_KEY**: get this value from [here](https://telegram.dog/UseTGXBot).
+**API_KEY**: you can get this value from the link given below [here](https://telegram.dog/UseTGXBot).
 
-**API_HASH**: you will get this value from where you get API_KEY .
+**API_HASH**: automatically you are going to get this value API_KEY .
 
-**STRING_SESSION**: After getting above upper values you have to go to [session generator](https://session.uraniumcore.repl.run) it will ask to select option as t/p select t and sign in with phone number in international format as +918999993456.
+**STRING_SESSION**: After getting the  values you have to go for the [session generator](https://session.uraniumcore.repl.run) here you are going to get two option as shown Y/N select Y and sign in with phone number in international format as +918999993456.
 
 **HEROKU_MEMEZ**: This Value Should be settled to "True" for deploying on heroku.
 
-**HEROKU_API_KEY**: Get this value from [here](https://dashboard.heroku.com/account).
+**HEROKU_API_KEY**: you can get this value from from the link given below [here](https://dashboard.heroku.com/account).
 
-**HEROKU_APP_NAME**: This Value should be same as you filled app name on heroku.
+**HEROKU_APP_NAME**: This Value will be same as you have filled earlier in app named heroku.
 
-**GITHUB_ACCESS_TOKEN**: Get this Value from [here](https://github.com/settings/tokens).
+**GITHUB_ACCESS_TOKEN**: you can get this Value from the link given below [here](https://github.com/settings/tokens).
 
-**GIT_REPO_NAME**: This value is require to do commits through Userbot.
+**GIT_REPO_NAME**: This value is required to do commits through Userbot.
 
 **COUNTRY**: This value is required for Date , Time and Weather example:India.
 
-**TZ_NUMBER**: If country is not set or giving error set this value example:+5.5 .
+**TZ_NUMBER**: If the country name is not set or else showing an error then set this value example:+5.5 .
 
 **TELEGRAPH_SHORT_NAME**: telegraph shortname for graph credits.
 
-**OPEN_WEATHER_MAP_APPID**: Get your own APPID (API key) from [here](https://api.openweathermap.org/data/2.5/weather).
+**OPEN_WEATHER_MAP_APPID**: you can get your own APPID (API key) from the link given below [here](https://api.openweathermap.org/data/2.5/weather).
 
-**GENIUS_API_TOKEN**: This value is required for using lyrics module get api token from [here](https://genius.com/developers).
+**GENIUS_API_TOKEN**: This value is used to show the lyrics module  you can get this api token from the link given below[here](https://genius.com/developers).
 
-**BOTLOG**: Incase you want to turn off logging, put this to false.
+**BOTLOG**: Incase  if you want to turn off from the logging, you can click on false.
 
-**BOTLOG_CHATID**: fill this with your private group id only work with supergroup only get id by giving command to haruka /id fill this value for skip starting error.
+**BOTLOG_CHATID**: fill the following data using private group id and it works with supergroup. Get id by giving command to haruka /id in the super group fill this value skip getting error.
 
 **PM_AUTO_BAN**: set this to True for PM protection.
 
-**YOUTUBE_API_KEY**: This key required for YouTube search get this from [here](https://console.cloud.google.com).
+**YOUTUBE_API_KEY**: This key required to search in youtube, you will get this from the link given below [here](https://console.cloud.google.com).
 
-**OCR_SPACE_API_KEY**: Required for image to text get OCR API Key for .ocr command. Get from [here](https://ocr.space/ocrapi).
+**OCR_SPACE_API_KEY**: Required for image to text get OCR API Key for .ocr command. you can also get this from the link given below [here](https://ocr.space/ocrapi).
 
-**REM_BG_API_KEY**: API Key for .rbg command. Get from [here](https://www.remove.bg/api).
+**REM_BG_API_KEY**: API Key for .rbg command. you can also get this from the link given below  gib  [here](https://www.remove.bg/api).
 
-**ANTI_SPAMBOT**: Kicks spambots from groups after they join ,Requires admin powers in groups to kick.
+**ANTI_SPAMBOT**: Kicks spambots from group after they join or when thay  arrive  in groups ,Requires admin powers in groups to kick.
 
 **ANTI_SPAMBOT_SHOUT**: Report spambots to @admins in groups after they join, just in case when you don't have admin powers to kick that shit yourself.
 
@@ -50,15 +50,17 @@ NOW For using UserBot It is important to know Which Vars are used for What.
 
 **USER_TERM_ALIAS**: Terminal alias name.
 
-**QUOTES_API_TOKEN**: same as quotly but require api token. Get token from [here](http://antiddos.systems).
+**QUOTES_API_TOKEN**: same as quotly but require api token. you can also get token from the link given below
+[here](http://antiddos.systems).
 
-**CLEAN_WELCOME**: When a new person joins, the old welcome message is deleted.
+**CLEAN_WELCOME**: When a new person joins, the old welcome message will be deleted.
 
 **G_DRIVE_CLIENT_ID**: for gdrive values refer to gdrive section below.
 
-**LASTFM_API**: API Key for Last.FM module. Get one from [here](https://www.last.fm/api/account/create).
+**LASTFM_API**: API Key for Last.FM module.you can also get this from the link given below.
+[here](https://www.last.fm/api/account/create).
 
-**LASTFM_SECRET**: SECRET Key for Last.FM module. You will get this value from upper link.
+**LASTFM_SECRET**: SECRET Key for Last.FM module. You will get this value fromthe above link.
 
 **LASTFM_USERNAME**: Last.FM Username.
 
@@ -85,9 +87,9 @@ What is Heroku?
 Answer:-Heroku is a cloud platform as a service (PaaS) supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go.[1][2] For this reason, Heroku is said to be a polyglot platform as it has features for a developer to build, run and scale applications in a similar manner across most languages. Heroku was acquired by Salesforce.com in 2010 for $212 million.
 ## Want to deploy on HEROKU
 
-Want to make account click [here](https://signup.heroku.com).
+ if you Want to make account click [here](https://signup.heroku.com).
 
-if you already have or created one now click [here](https://heroku.com/deploy?template=https://github.com/ElytrA8/TESLA/tree/TESLA) for deploying.
+if you already have an account or created one now click [here](https://heroku.com/deploy?template=https://github.com/ElytrA8/TESLA/tree/TESLA) for deploying.
 
 Now fill the required values
 
@@ -106,13 +108,13 @@ Click on Get Credentials button.
 
 In the new screen, scroll down.
 
-For Which API are you using? select Google Drive API from the dropdown.
+ Which API are you using? select Google Drive API from the dropdown.
 
-For Where will you be calling the API from? select Other UI (e.g. Windows, CLI tool)
+Where will you be calling the API from? select Other UI (e.g. Windows, CLI tool)
 
-For What data will you be accessing? select User data.
+ What data will you be accessing? select User data.
 
-Click on What credentials do I need?
+Click on What credentials do you need?
 
 A pop-up will appear.
 
@@ -128,7 +130,7 @@ Google allows the first 100 users to be authenticated without the verification s
 
 Scroll Down and Click on the Save button.
 
-You can now close this tab, and return to the previous tab.
+now you can close this tab, and return to the previous tab.
 
 Click on the Refresh button.
 
@@ -162,7 +164,7 @@ Open the link in your browser, and login to the Google Drive account.
 
 All gDrive functionalities will be done on this account.
 
-This need same account that you created your API in.
+This need same account which you have created for API in.
 
 After login, it will display a code. 
 
@@ -207,11 +209,11 @@ Then choose (help me choose)
 
 Same as gdrive but select YouTube data api
 
-Where will you be calling the API from? --> select other ui eg. Windows
+Where you will be calling the API from? --> select other ui eg. Windows
 
-What data will you be accessing? --> select public data 
+What kind of data you will be accessing? --> select public data 
 
-Click on What credentials do I need
+Click on What credentials do you need
 
 It will give a api key now
 
@@ -223,7 +225,7 @@ There should be one api key
 
 Open it and copy 
 
-Now add it to heroku vars with YOUTUBE_API_KEY
+Now paste it to heroku vars with YOUTUBE_API_KEY
 
 ## TRANSFER
 Can be Used with terminal command 
