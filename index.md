@@ -1,6 +1,6 @@
 # Hello.
 ## Myself ElytrA8.
-Have a look at my [Repo](https://github.com/JamieHoSzeYui/TESLA) to deploy TESLA USERBOT. 
+Have a look at my [Repo](https://github.com/ElytrA8/ProjectFizilion) to deploy Fizilion USERBOT. 
 To use user bot we should have an idea about vars.
 ## envoirnment VARS.
 
@@ -213,7 +213,7 @@ Where you will be calling the API from? --> select other ui eg. Windows
 
 What kind of data you will be accessing? --> select public data 
 
-Click on What credentials do you need
+Click on What credentials do I need
 
 It will give a api key now
 
